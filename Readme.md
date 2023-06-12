@@ -6,9 +6,9 @@
 
 ### **Web Developer - Programmer**
 
-#### *I am mainly interested in a project with a great technological advance. Likewise, I am in the process of creating web projects and being able to handle technologies, web development tools*
+#### *- I am mainly interested in a project with a great technological advance. Likewise, I am in the process of creating web projects and being able to handle technologies, web development tools*
 
-#### *I like to Program what I want and think like the different projects created by me and at the same time create a technology development community*
+#### *- I like to Program what I want and think like the different projects created by me and at the same time create a technology development community*
 
 ## 🌐 **Socials**
 
