@@ -1,6 +1,6 @@
 # 💻 **Hello Word**
 
-## 🎧 *My Name Is* - **JeanCarlos Jimenez** - @jeanctech
+## 🎧 My Name Is - **JeanCarlos Jimenez** - @jeanctech
 
 ## 💫 **About Me**
 
