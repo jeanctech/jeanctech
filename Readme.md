@@ -1,10 +1,10 @@
-# 💻 **Hello Word**
+# 💻 **Hello World**
 
 ## 🎧 My Name Is - **JeanCarlos Jimenez** - @jeanctech
 
 ## 💫 **About Me**
 
-### **Web Developer - Programmer**
+### **Developer - Programmer Web**
 
 #### *- I am mainly interested in a project with a great technological advance. Likewise, I am in the process of creating web projects and being able to handle technologies, web development tools*
 
