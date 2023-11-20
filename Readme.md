@@ -1,6 +1,6 @@
 # 👋 Hello World, My Name is JeanCarlos Jimenez
 
-### 💻 - A passionate Developer - Web Programmer from Colombia
+### 💻 - A Passionate Web Developer - Programmer from Colombia
 
 ## 👨‍💻 **About Me**
 
