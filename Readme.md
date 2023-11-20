@@ -68,4 +68,4 @@
 
 ## ⚡ **Activity Graph**
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeanctech&theme=github-compact&hide_border=false)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeanctech&theme=github-compact&hide_border=true)
