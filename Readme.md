@@ -52,20 +52,20 @@
 
 ## 📊 **GitHub Stats**
 
-<p><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanctech&show_icons=true&locale=en&theme=dracula" alt="jeanctech" /></p>
+<p><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanctech&show_icons=true&locale=en&theme=dark&hide_border=true" alt="jeanctech" /></p>
 <br/>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanctech&layout=compact&theme=dracula" alt=jeanctech /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanctech&layout=compact&&theme=dark&hide_border=true" alt=jeanctech /></p>
 <br/>
-<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jeanctech&theme=dracula" alt="jeanctech"" />
-
-## 🏆 **GitHub Trophies**
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jeanctech&theme=onedark)
+<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jeanctech&&theme=dark&hide_border=true" alt="jeanctech" />
 
 ## ✍️ **Random Dev Quote**
 
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github-compact)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github-compact&hide_border=true)
+
+## 🏆 **GitHub Trophies**
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=jeanctech&theme=onedark&no-frame=true&no-bg=true&margin-w=0" alt=jeanctech />
 
 ## ⚡ **Activity Graph**
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeanctech&theme=github-compact)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeanctech&theme=github-compact&hide_border=false)
