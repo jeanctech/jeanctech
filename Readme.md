@@ -51,10 +51,10 @@
 
 ## 📊 **GitHub Stats**
 
-<p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanctech&show_icons=true&locale=en&theme=dracula" alt="jeanctech" /></p>
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jeanctech&theme=dracula" alt="jeanctech" /></p>
-
+<p><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanctech&show_icons=true&locale=en&theme=dracula" alt="jeanctech" /></p>
+<br/>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jeanctech&theme=dracula" alt="jeanctech" width="75%" /></p>
+<br/>
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanctech&layout=compact&theme=dracula" alt=jeanctech />
 
 ## 🏆 **GitHub Trophies**
