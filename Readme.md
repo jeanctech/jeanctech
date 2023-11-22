@@ -1,12 +1,10 @@
-# 👋 Hello World, My Name is JeanCarlos Jimenez
+## </> Hello World, 👋 My name is JeanCarlos Jimenez
 
-### 💻 - A Passionate Web Developer - Programmer from Colombia
+💻 - A Passionate Developer - Web Programmer from Colombia
 
-## 👨‍💻 **About Me**
+## 👨‍💻 **About me**
 
-#### *- I am mainly interested in projects with a great technological advance. Likewise, I am in the process of creating web projects, constantly learning to be able to handle technologies, web development and programming tools*
-
-#### *- I like to program what I want and think how the different projects created by me help solve a problem and at the same time create a technological development community that is communicative and effective for its members*
+I am mainly interested in creating projects with a great technological advance. Likewise, I am in the process of acquiring skills, constantly learning to be able to handle web development technologies and programming tools. I like to program what I want and think about how the different projects created by me help solve problems and at the same time create a development community with unique projects.
 
 ## 🌐 **Socials**
 
@@ -28,8 +26,9 @@
 ![Php](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -40,10 +39,8 @@
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Npm](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Pug](https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black)
 ![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SqLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Mongob](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vs Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -53,9 +50,13 @@
 ## 📊 **GitHub Stats**
 
 <p><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanctech&show_icons=true&locale=en&theme=dark&hide_border=true" alt="jeanctech" /></p>
-<br/>
+
+## 📚 **GitHub Languages**
+
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanctech&layout=compact&&theme=dark&hide_border=true" alt=jeanctech /></p>
-<br/>
+
+## 💾 **GitHub Streak**
+
 <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jeanctech&&theme=dark&hide_border=true" alt="jeanctech" />
 
 ## ✍️ **Random Dev Quote**
