@@ -4,7 +4,7 @@
 
 ## 👨‍💻 **Sobre Mi**
 
-Me interesa principalmente crear proyectos con un gran avance tecnológico. Asimismo, me encuentro en proceso de adquisición de habilidades, aprendiendo constantemente para poder manejar tecnologías de desarrollo web y herramientas de programación. Me gusta programar lo que quiero y pensar en cómo los diferentes proyectos creados por mí ayudan a resolver problemas y al mismo tiempo crear una comunidad de desarrollo con proyectos únicos.
+Me interesa principalmente crear proyectos con un gran avance tecnológico. Asi mismo, me encuentro en proceso de adquisición de habilidades, aprendiendo constantemente para poder manejar tecnologías de desarrollo web y herramientas de programación. Me gusta programar lo que quiero y pensar en cómo los diferentes proyectos creados por mí ayudan a resolver problemas y al mismo tiempo crear una comunidad de desarrollo con proyectos únicos.
 
 ## 🌐 **Redes Sociales**
 
