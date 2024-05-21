@@ -1,12 +1,12 @@
-## </> Hola mundo, 👋 Mi nombre es JeanCarlos Jiménez
+## </> Hi Mundo, 👋 My name is Jeancarlos Jiménez
 
-💻 - Un Desarrollador Web - Frontend Junior de Colombia
+💻 - A web developer - Frontend Junior of Colombia
 
-## 👨‍💻 **Sobre Mi**
+## 👨‍💻 ** About me **
 
-Me interesa principalmente crear proyectos con un gran avance tecnológico. Asi mismo, me encuentro en proceso de adquisición de habilidades, aprendiendo constantemente para poder manejar tecnologías de desarrollo web y herramientas de programación. Me gusta programar lo que quiero y pensar en cómo los diferentes proyectos creados por mí ayudan a resolver problemas y al mismo tiempo crear una comunidad de desarrollo con proyectos únicos.
+I am mainly interested in creating projects with great technological advance. Likewise, I find myself in the process of acquiring skills, constantly learning to be able to handle web development technologies and programming tools. I like to program what I want and think about how the different projects created by me help solve problems and at the same time create a development community with unique projects.
 
-## 🌐 **Redes Sociales**
+## 🌐 ** Social Networks **
 
 <a href="https://fb.com/jeanctech" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jeanctech" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
