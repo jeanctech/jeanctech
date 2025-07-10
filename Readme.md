@@ -1,59 +1,52 @@
-## </> Hi Mundo, 👋 My name is Jeancarlos Jiménez
+## 👋 Hi, I'm Jeancarlos Jiménez — aka **jeanctech**
 
-💻 - A Web Developer - Frontend Junior of Colombia
+🧑‍💻 Junior Frontend Developer from Colombia  
+🌐 Passionate about building small but meaningful web projects  
+🔍 Always curious, learning and experimenting with code
 
-## 👨‍💻 **About Me**
+## 🧠 About Me
 
-I am mainly interested in creating projects with great technological advance. Likewise, I find myself in the process of acquiring skills, constantly learning to be able to handle web development technologies and programming tools. I like to program what I want and think about how the different projects created by me help solve problems and at the same time create a development community with unique projects.
+I like creating things — sometimes simple, sometimes messy — but always with the idea of improving little by little.  
+Right now I'm focused on web development, especially the frontend side. I enjoy using modern technologies and customizing my tools to feel more mine.  
+I’m not perfect and I don’t have it all figured out, but I do enjoy the process.
 
-## 🌐 **Social Networks**
+## 🛠️ Tech Stack
 
-<a href="https://fb.com/jeanctech" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jeanctech" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.tiktok.com/@jeanctech" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" target="_blank"></a>
-<a href="https://x.com/jeanctech" target="_blank"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
-<a href="https://www.youtube.com/@jeanctech" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/jeanctech" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-663399?style=flat&logo=CSS&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Astro](https://img.shields.io/badge/Astro-0C1222?style=flat&logo=astro&logoColor=FDFDFE)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=Node.js&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=flat&logo=Vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-222222?style=flat&logo=Netlify&logoColor=00C7B7)
 
-## 💻 **Tech Stack**
+> 🌘 Currently exploring custom theming (like Rose Pine) and minimal Linux setups.
 
-![Html5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Css3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Php](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Gnu-Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
-![Json](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
-![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+## 📬 Social
 
-## 📊 **GitHub Stats**
+<a href="https://fb.com/jeanctech"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jeanctech"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/jeanctech"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" /></a>
+<a href="https://www.youtube.com/@jeanctech"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white" /></a>
+<a href="https://www.tiktok.com/@jeanctech"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=flat&logo=tiktok&logoColor=white" /></a>
+<a href="https://x.com/jeanctech"><img src="https://img.shields.io/badge/X-000000.svg?style=flat&logo=X&logoColor=white" /></a>
 
-<p><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanctech&show_icons=true&locale=en&theme=dark&hide_border=true" alt="jeanctech" /></p>
+## 📊 GitHub Stats
 
-## 📚 **GitHub Languages**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeanctech&show_icons=true&theme=rose_pine&hide_border=true)
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanctech&layout=compact&&theme=dark&hide_border=true" alt=jeanctech /></p>
+## 📚 Most Used Languages
 
-## 💾 **GitHub Streak**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanctech&layout=compact&theme=rose_pine&hide_border=true)
 
-<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jeanctech&&theme=dark&hide_border=true" alt="jeanctech" />
+## ✍️ Dev Quote
 
-## ✍️ **Random Dev Quote**
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide_border=true)
 
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github-compact&hide_border=true)
+##
 
-## 🏆 **GitHub Trophies**
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=jeanctech&theme=onedark&no-frame=true&no-bg=true&margin-w=0" alt=jeanctech />
-
-## ⚡ **Activity Graph**
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeanctech&theme=github-compact&hide_border=true)
+> This README is always changing — like me.
