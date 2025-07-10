@@ -47,6 +47,4 @@ I’m not perfect and I don’t have it all figured out, but I do enjoy the proc
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide_border=true)
 
-##
-
 > This README is always changing — like me.
