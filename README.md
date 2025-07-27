@@ -20,8 +20,8 @@ I’m not perfect and I don’t have it all figured out, but I do enjoy the proc
 ![Vue](https://img.shields.io/badge/Vue-4FC08D.svg?style=flat&logo=Vue.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-0C1222?style=flat&logo=astro&logoColor=FDFDFE)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=Node.js&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=FFFFFF)
 ![Netlify](https://img.shields.io/badge/Netlify-222222?style=flat&logo=Netlify&logoColor=00C7B7)
 
 > 🌘 Currently exploring custom theming (like Rose Pine) and minimal Linux setups.
@@ -32,8 +32,8 @@ I’m not perfect and I don’t have it all figured out, but I do enjoy the proc
 <a href="https://www.linkedin.com/in/jeanctech"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/jeanctech"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" /></a>
 <a href="https://www.youtube.com/@jeanctech"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white" /></a>
-<a href="https://www.tiktok.com/@jeanctech"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=flat&logo=tiktok&logoColor=white" /></a>
 <a href="https://x.com/jeanctech"><img src="https://img.shields.io/badge/X-000000.svg?style=flat&logo=X&logoColor=white" /></a>
+<a href="https://www.tiktok.com/@jeanctech"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=flat&logo=tiktok&logoColor=white" /></a>
 
 ## 📊 GitHub Stats
 
