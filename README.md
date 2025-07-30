@@ -17,11 +17,11 @@ I’m not perfect and I don’t have it all figured out, but I do enjoy the proc
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=FFFFFF)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Vue](https://img.shields.io/badge/Vue-4FC08D.svg?style=flat&logo=Vue.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-0C1222?style=flat&logo=astro&logoColor=FDFDFE)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=Node.js&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=flat&logo=Vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-222222?style=flat&logo=Netlify&logoColor=00C7B7)
 
 > 🌘 Currently exploring custom theming (like Rose Pine) and minimal Linux setups.
